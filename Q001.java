@@ -12,10 +12,7 @@ public class countDigits
              n /= 10;
         }
         while(n != 0);
-        if(digs%2 == 0)
-         return true;
-        else
-         return false;
+        return digs % 2 == 0;
     }
     public static void main(String args[])
     {
