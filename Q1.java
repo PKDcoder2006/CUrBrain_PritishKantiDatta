@@ -1,5 +1,5 @@
 import java.util.*;
-public class countDigits
+public class Q1
 {
     static boolean countDigs(int n)
     {

@@ -1,5 +1,5 @@
 import java.util.*;
-public class Abs_Diff
+public class Q6
 {
     static int abs_diff(int n, int a, int b)
     {

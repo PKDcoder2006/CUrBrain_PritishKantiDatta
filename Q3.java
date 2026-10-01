@@ -1,5 +1,5 @@
 import java.util.*;
-public class Palindrome_Sum
+public class Q3
 {
     static int flip(int n)
     {

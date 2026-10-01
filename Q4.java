@@ -1,5 +1,5 @@
 import java.util.*;
-public class ProdSumDiff
+public class Q4
 {
     static int diff(int n)
     {

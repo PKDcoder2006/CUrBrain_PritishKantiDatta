@@ -1,5 +1,5 @@
 import java.util.*;
-public class reverseDouble
+public class Q2
 {
     static int revDbl(int n)
     {

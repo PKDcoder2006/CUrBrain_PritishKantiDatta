@@ -1,5 +1,5 @@
 import java.util.*;
-public class EvenZeroList
+public class Q5
 {
     static int digitCalc(int n)
     {
